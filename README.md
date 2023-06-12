@@ -5,6 +5,19 @@ MATERIALS NEEDED:
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/94df25f1-5d02-459e-b4af-ec87d99ab6e3)
 
+1. Arduino Uno USB Connector
+2. Arduino Uno R3
+3. RFID-RC522 Module
+4. Multicolored Male to Male Jumpers
+5. Breadboard
+6. Soldering Pen
+7. Solder Wire
+8. Computer
+9. RFID Card / MIFARE Classic 1K Card
+10. RFID Tag
+
+
+
 WIRING:
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/8adb99fb-c6dc-4244-986d-fa38283b9639)
