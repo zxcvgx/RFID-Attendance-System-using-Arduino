@@ -24,6 +24,7 @@ WIRING:
 
 MUST:
 Don't forget to change the file path where your excel file resides.
+
 Don't forget to Download the MFRC522 library in your Aruino IDE
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/e2c55229-8f02-44b8-b115-d2e0fef2cc6d)
 
