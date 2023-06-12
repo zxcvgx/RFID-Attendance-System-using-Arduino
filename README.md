@@ -1,6 +1,12 @@
 # Attendance-System
 School Based Attendance System using Arduino Uno R3 and RC522 Module
 
+MATERIALS NEEDED:
+![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/94df25f1-5d02-459e-b4af-ec87d99ab6e3)
+
+WIRING:
+![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/8adb99fb-c6dc-4244-986d-fa38283b9639)
+
 MUST:
 Don't forget to change the file path where your excel file resides.
 Don't forget to Download the MFRC522 library in your Aruino IDE
@@ -13,5 +19,5 @@ How does it work?
 Note: the Name, Section, and UID are already provdied in excel.
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/d81590fd-d44b-41ea-a177-5eba538735df)
-![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/8adb99fb-c6dc-4244-986d-fa38283b9639)
-![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/94df25f1-5d02-459e-b4af-ec87d99ab6e3)
+
+
