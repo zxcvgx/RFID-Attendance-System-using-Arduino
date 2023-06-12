@@ -5,8 +5,9 @@ Make sure to create an excel file using Excel and putting the UID on the third r
 
 The Excel file should be prepared (created) with the format NAME OF THE STUDENT(1st row)  |  SECTION(2nd row)   | UID(3rd row) | SYSTEM LOG(4th row)
 
+MUST:
 Don't forget to change the file path where your excel file resides.
-ENJOY
+Don't forget to Download the MFRC522 library in your Aruino IDE
 
 How does it work?
 1. Our Arduino Uno R3 prints the UID of the scanned card.
