@@ -1,6 +1,11 @@
 # Attendance-System
 School Based Attendance System using Arduino Uno R3 and RC522 Module
+
 UPDATE: New controls and features were added to the Console Application!
+1. Read Card / Tag option can allow you to read the UID from the RFID Card / Tag.
+2. Log Data option allows you to log the date with the provided excel file.
+3. Open Logs will open your provided excel file to check and see the changes made.
+4. Exit will allow you to exit the application safely.
 
 MATERIALS NEEDED:
 
