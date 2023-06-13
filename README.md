@@ -1,7 +1,7 @@
 # Attendance-System
 School Based Attendance System using Arduino Uno R3 and RC522 Module
 
-==========================================================================================================
+============================================================================
 
 UPDATE: New controls and features were added to the Console Application!
 1. Read Card / Tag option can allow you to read the UID from the RFID Card / Tag.
@@ -9,7 +9,7 @@ UPDATE: New controls and features were added to the Console Application!
 3. Open Logs will open your provided excel file to check and see the changes made.
 4. Exit will allow you to exit the application safely.
 
-==========================================================================================================
+============================================================================
 How does it work?
 1. Our Arduino Uno R3 prints the UID of the scanned card.
 2. The Console Application then recieves that data and try to search in the third row for the column that has the same UID in your worksheets, after that it then proceeds to write a log entry on the next column, next to the UID
@@ -19,7 +19,7 @@ Note: the Name, Section, and UID are already provdied in excel.
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/f692329d-25a2-4335-b640-7cb8a5b7229e)
 
-==========================================================================================================
+============================================================================
 MATERIALS NEEDED:
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/94df25f1-5d02-459e-b4af-ec87d99ab6e3)
@@ -38,7 +38,7 @@ MATERIALS NEEDED:
 
 
 
-==========================================================================================================
+==============================================================================
 WIRING:
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/8adb99fb-c6dc-4244-986d-fa38283b9639)
