@@ -71,6 +71,7 @@ namespace AECA
 
                     case "4":
                         exitProgram = true;
+                        serialPort.Close();
                         break;
 
                     default:
