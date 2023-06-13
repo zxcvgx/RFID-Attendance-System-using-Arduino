@@ -16,8 +16,7 @@ How does it work?
 2. The Console Application then recieves that data and try to search in the third row for the column that has the same UID in your worksheets, after that it then proceeds to write a log entry on the next column, next to the UID
 
 Note: the Name, Section, and UID are already provded in excel.
-![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/c7d770f0-1469-4b55-a247-7361982c13bf)
-
+![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/0199b1e3-e4a9-4ff8-a45c-c218c15f9b51)
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/f692329d-25a2-4335-b640-7cb8a5b7229e)
 
 ==============================================================
