@@ -21,7 +21,6 @@ void loop() {
   if (!mfrc522.PICC_ReadCardSerial())
     return;
 
-  // Show some details of the PICC (that is: the tag/card)
   
   dump_byte_array_lowercase_nospaces(mfrc522.uid.uidByte, mfrc522.uid.size);
   // Send the UID to the console application
