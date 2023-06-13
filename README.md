@@ -1,6 +1,8 @@
 # Attendance-System
 School Based Attendance System using Arduino Uno R3 and RC522 Module
 
+Made By me a high school student =D
+
 ==============================================================
 
 UPDATE: New controls and features were added to the Console Application!
