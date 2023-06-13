@@ -7,6 +7,17 @@ UPDATE: New controls and features were added to the Console Application!
 3. Open Logs will open your provided excel file to check and see the changes made.
 4. Exit will allow you to exit the application safely.
 
+
+How does it work?
+1. Our Arduino Uno R3 prints the UID of the scanned card.
+2. The Console Application then recieves that data and try to search in the third row for the column that has the same UID in your worksheets, after that it then proceeds to write a log entry on the next column, next to the UID
+
+Note: the Name, Section, and UID are already provdied in excel.
+![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/c7d770f0-1469-4b55-a247-7361982c13bf)
+
+![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/f692329d-25a2-4335-b640-7cb8a5b7229e)
+
+
 MATERIALS NEEDED:
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/94df25f1-5d02-459e-b4af-ec87d99ab6e3)
@@ -24,22 +35,20 @@ MATERIALS NEEDED:
 
 
 
+
+
 WIRING:
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/8adb99fb-c6dc-4244-986d-fa38283b9639)
+
+
+
 
 MUST:
 1. Don't forget to change the file path where your excel file resides.
 2. Don't forget to Download the MFRC522 library in your Aruino IDE
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/e2c55229-8f02-44b8-b115-d2e0fef2cc6d)
 
-How does it work?
-1. Our Arduino Uno R3 prints the UID of the scanned card.
-2. The Console Application then recieves that data and try to search in the third row for the column that has the same UID in your worksheets, after that it then proceeds to write a log entry on the next column, next to the UID
 
-Note: the Name, Section, and UID are already provdied in excel.
-![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/c7d770f0-1469-4b55-a247-7361982c13bf)
-
-![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/f692329d-25a2-4335-b640-7cb8a5b7229e)
 
 
