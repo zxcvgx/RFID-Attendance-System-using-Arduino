@@ -54,7 +54,8 @@ WIRING:
 
 MUST:
 1. Don't forget to change the file path where your excel file resides.
-2. Don't forget to Download the MFRC522 library in your Aruino IDE
+2. Don't forget to Download the MFRC522 library in your Aruino IDE.
+3. Don't forget to drag and drop your excel file.
 
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/e2c55229-8f02-44b8-b115-d2e0fef2cc6d)
 
