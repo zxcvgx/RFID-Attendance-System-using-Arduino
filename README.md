@@ -1,5 +1,6 @@
 # Attendance-System
 School Based Attendance System using Arduino Uno R3 and RC522 Module
+UPDATE: New controls and features were added to the Console Application!
 
 MATERIALS NEEDED:
 
@@ -34,6 +35,6 @@ How does it work?
 Note: the Name, Section, and UID are already provdied in excel.
 ![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/c7d770f0-1469-4b55-a247-7361982c13bf)
 
-![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/d81590fd-d44b-41ea-a177-5eba538735df)
+![image](https://github.com/zxcvgx/Attendance-System/assets/97776436/f692329d-25a2-4335-b640-7cb8a5b7229e)
 
 
